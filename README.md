@@ -3,7 +3,7 @@
 <h3>If You want to view the project <a href="https://youtu.be/aJvXxmWZXEM">Click Here</a></h3>
 <hr>
 <h1>Tech Used: </h1>
-<h3>PHP, HTML5, CSS3, JavaScript, BootStrap, MYSQL</h3>
+<h3>PHP, Laravel, HTML5, CSS3, JavaScript, BootStrap, MYSQL</h3>
 <hr>
 <h1>Features:</h1>
 <ul>
